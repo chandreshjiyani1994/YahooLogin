@@ -1,3 +1,4 @@
-Utilities\Xls_Reader.class
 Pages\LoginPage.class
+ExtentReportListener\ExtentReporterNG.class
+Utilities\Xls_Reader.class
 Data\DataFile.class
